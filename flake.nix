@@ -28,6 +28,8 @@
               gtest
               lcov
               nix-output-monitor
+              python2
+              perl
               starship
               vcpkg
               vcpkg-tool
