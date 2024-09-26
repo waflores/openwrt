@@ -27,6 +27,7 @@
               doxygen
               gtest
               lcov
+              ncurses5
               nix-output-monitor
               python2
               perl
